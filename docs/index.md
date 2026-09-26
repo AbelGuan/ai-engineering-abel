@@ -1,13 +1,13 @@
 # AI Engineering · Abel Track
 
-从自己的真实操作出发，建立一套能持续更新的 AI 工程教材。
+沿原课程的教学骨架，积累自己的实操、理解与排错记录。
 
 !!! info "当前学习位置"
-    **Phase 00 · Lesson 01：建立你的 Mac AI 开发环境。** 基础安装与 Python 路径排错已整理；项目环境部分待继续，课程尚未结课。
+    **Phase 00 · Lesson 01：建立你的 Mac AI 开发环境。** 按原课四层环境与搭建顺序学习；基础安装、路径排错和虚拟环境使用已有记录，最终预检待反馈，尚未结课。
 
 | 从哪里开始 | 你会看到什么 |
 |---|---|
-| [继续 Lesson 01](phases/00-setup-and-tooling/01-dev-environment.md) | 为什么这样安装、做过什么、问题如何解决 |
+| [继续 Lesson 01](phases/00-setup-and-tooling/01-dev-environment.md) | 原课目标、四层环境、搭建验证与个人经历 |
 | [Roadmap · 学习路线](roadmap.md) | 先学哪个 Phase、具体选哪些节、为什么 |
 | [Environment State · 环境台账](environment.md) | 已有工具、计划安装、暂缓与当前跳过 |
 | [“整理”工作流](maintenance.md) | 一次对话如何沉淀成可维护的课程 |

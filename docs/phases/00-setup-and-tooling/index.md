@@ -4,7 +4,7 @@
 
 | Lesson | 内容 | 本路线安排 | 进度 |
 |---|---|---|---|
-| [01](01-dev-environment.md) | Development Environment | 必学；基础工具与路径排错 | 进行中，已有实操记录 |
+| [01](01-dev-environment.md) | Development Environment | 必学；四层环境、工具链与验证 | 进行中，已有实操记录 |
 | 02 | Git & Collaboration | 必学；保存、比较、协作 | 计划 |
 | 03 | GPU Setup | 暂时跳过 | 未开展 |
 | 04 | APIs & Keys | 必学；接口与密钥 | 计划 |
@@ -17,6 +17,6 @@
 | 11 | Linux for AI | 必学；后续服务器基础 | 计划 |
 | 12 | Debugging & Profiling | 必学；定位问题与验证 | 计划 |
 
-节次沿用历史规划，未展开的课程只是计划，没有创建虚假的完成记录。Lesson 01 中项目环境的后续操作可在 Lesson 06 深入解释，使用交叉链接避免重复维护两份事实。
+核心目标与教学顺序以对应原课为准；此表只记录个人安排。节次沿用历史规划，未展开的课程只是计划，没有创建虚假的完成记录。Lesson 01 中项目环境的后续操作可在 Lesson 06 深入解释，使用交叉链接避免重复维护两份事实。
 
-下一步：补充 Lesson 01 的预检结果，再继续项目环境。完整顺序见 [Roadmap](../../roadmap.md)。
+下一步：核对已有虚拟环境的信息，补充 Lesson 01 的预检结果。完整顺序见 [Roadmap](../../roadmap.md)。
