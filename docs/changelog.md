@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-09-26 · 纳入原课练习与测验
+
+- 按用户要求，将已学章节的 Exercises、Test your understanding 与 Post-Lesson Quiz 纳入固定整理规则与模板。
+- 核对原课程 MIT 许可，为首课保存 3 项 Exercises、3 道课后测验，以及原始快照、版权和许可。
+- 当前本地原课未找到单独的 Test your understanding 段落，保留待核对状态；未记录用户作答，不标记完成。
+
 ## 2026-09-26 · GitHub Pages 首次上线
 
 - GitHub 官方工具已完成用户授权与身份验证，本地 `main` 已推送并跟踪 `origin/main`。

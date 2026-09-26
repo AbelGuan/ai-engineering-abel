@@ -5,6 +5,7 @@ site_url: !ENV [SITE_URL, 'http://127.0.0.1:8000/']
 strict: true
 exclude_docs: |
   !/templates/
+  /assets/upstream/**/*.md
 theme:
   name: material
   language: zh
@@ -51,6 +52,7 @@ nav:
   - Phase 00 · Setup & Tooling:
       - 阶段概览: phases/00-setup-and-tooling/index.md
       - Lesson 01 · 开发环境: phases/00-setup-and-tooling/01-dev-environment.md
+      - Lesson 01 · 原课练习与测验: phases/00-setup-and-tooling/01-dev-environment-practice.md
   - Phase 11 · LLM Engineering: phases/11-llm-engineering/index.md
   - Phase 13 · Tools / MCP / Skills: phases/13-tools-and-protocols/index.md
   - Phase 14 · Agent Engineering: phases/14-agent-engineering/index.md

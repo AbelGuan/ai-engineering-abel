@@ -1,0 +1,5 @@
+## Exercises
+
+1. Run the verification script and fix any failures
+2. Create a Python virtual environment for this course and install PyTorch
+3. Write a "hello world" in all four languages and run each one
