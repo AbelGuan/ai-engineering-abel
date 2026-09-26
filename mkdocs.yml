@@ -1,0 +1,71 @@
+site_name: AI Engineering · Abel Track
+site_description: Abel 的个人 AI 工程课程：真实操作、工程判断与持续积累。
+site_author: Abel
+site_url: !ENV [SITE_URL, 'http://127.0.0.1:8000/']
+strict: true
+exclude_docs: |
+  !/templates/
+theme:
+  name: material
+  language: zh
+  font: false
+  favicon: assets/favicon.svg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: 切换深色模式
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: 切换浅色模式
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - search.highlight
+plugins:
+  - search:
+      lang: [zh, en]
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+extra_css:
+  - assets/extra.css
+nav:
+  - 课程首页: index.md
+  - Roadmap · 学习路线: roadmap.md
+  - Phase 00 · Setup & Tooling:
+      - 阶段概览: phases/00-setup-and-tooling/index.md
+      - Lesson 01 · 开发环境: phases/00-setup-and-tooling/01-dev-environment.md
+  - Phase 11 · LLM Engineering: phases/11-llm-engineering/index.md
+  - Phase 13 · Tools / MCP / Skills: phases/13-tools-and-protocols/index.md
+  - Phase 14 · Agent Engineering: phases/14-agent-engineering/index.md
+  - Environment State · 环境台账: environment.md
+  - 维护与发布:
+      - “整理”工作流: maintenance.md
+      - Lesson 固定模板: templates/lesson-template.md
+      - GitHub Pages 部署: deployment.md
+      - 更新记录: changelog.md
+      - 来源与证据: sources.md
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn
+    anchors: warn
+    unrecognized_links: warn

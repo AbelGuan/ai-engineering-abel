@@ -1,0 +1,9 @@
+site/
+.venv/
+.venv-docs/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
