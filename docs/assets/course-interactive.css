@@ -1,0 +1,13 @@
+/* Theme adapter for upstream figures, scoped to lesson widgets. */
+.lesson-figure { --bg: var(--md-default-bg-color); --bg-surface: var(--md-code-bg-color); --ink: var(--md-default-fg-color); --ink-soft: var(--md-default-fg-color); --ink-mute: var(--md-default-fg-color--light); --rule-soft: var(--md-default-fg-color--lightest); --blueprint: #4051b5; --font-body: var(--md-text-font-family); --font-mono: var(--md-code-font-family); }
+.lesson-figure .lf-head { flex-wrap: wrap; }
+[data-pre-quiz] fieldset { border: 1px solid var(--md-default-fg-color--lightest); padding: 1em; margin: 1em 0; min-width: 0; }
+[data-pre-quiz] legend { font-weight: 700; padding: 0 .4em; }
+[data-pre-quiz] button { display: block; width: 100%; text-align: left; border: 1px solid var(--md-default-fg-color--lightest); padding: .65em .85em; margin: .5em 0; cursor: pointer; color: var(--md-default-fg-color); }
+[data-pre-quiz] button:focus-visible { outline: 2px solid var(--md-accent-fg-color); }
+[data-pre-quiz] button:hover:not(:disabled) { background: var(--md-code-bg-color); }
+[data-pre-quiz] button.correct { border-color: #388e3c; background: #388e3c20; }
+[data-pre-quiz] button.incorrect { border-color: #d84315; background: #d8431520; }
+[data-pre-quiz] button:disabled { cursor: default; }
+
+[data-md-color-scheme="slate"] .lesson-figure { --blueprint: #aab6ff; }

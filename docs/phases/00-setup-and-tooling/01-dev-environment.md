@@ -13,6 +13,10 @@ updated: 2026-09-26
 !!! info "我的进度"
     已记录 Homebrew、开发 Python 安装与路径排错；用户最新反馈确认正在使用 Python 虚拟环境。该环境的版本、路径与创建工具尚未核实；uv、Python 3.12、项目依赖和最终 Beginner 预检不能标为已完成。
 
+## 课前自测 · Pre-Lesson Check
+
+原课两道课前题已补入[练习页的课前自测](01-dev-environment-practice.md#pre-lesson-check)，可选择答案、查看解释并重试。它与课后测验不同。
+
 ## 学习目标 · Learning Objectives
 
 以下对应原课的四项目标，保留完整范围；个人暂缓项不会从课程目标中删除。
@@ -29,6 +33,16 @@ updated: 2026-09-26
 后续每一课都要运行代码。如果解释器、依赖或系统工具不匹配，学习会不断被导入错误、版本冲突和设备问题打断。本课先建立一张环境地图，再准备当前路线所需的工具，最后用实际运行结果验证。
 
 ## 核心概念：四层开发环境 · The Concept
+
+### 原课动画：四层环境依次搭建
+
+<div class="lesson-figure" data-figure="s0-env-stack"></div>
+
+<noscript>请启用 JavaScript 观看原课动画；下面的四层表格也提供静态说明。</noscript>
+
+直接使用原课程动画源码，保留英文文字、逐层出现的节奏与暂停控制。先看系统基础，再看包管理器、语言运行环境和 AI 库依次出现，最后显示导入 PyTorch 的示意。
+
+来源：Rohit Ghumare，[原动画源码](https://github.com/rohitg00/ai-engineering-from-scratch/blob/8bc378c2e07777899322ae77cd0dde94cb12fab3/site/figures-setup.js)，[MIT 许可](../../assets/upstream/p00-l01/LICENSE.txt)。这里只展示本课动画，网站配色通过独立适配层衔接；原文概括的技术边界见下方补充理解。
 
 从底层向上理解：
 
@@ -281,6 +295,7 @@ Terminal 是应用，仓库根目录是位置，两者可以同时成立。原�
 | Node / Rust / Julia / PyTorch 与 GPU | 按上述步骤暂缓或跳过；不计为已完成 |
 | Beginner 最终预检 | 待用户提供实际输出 |
 | 四层模型与工具职责 | 已整理教材；理解程度待自测反馈 |
+| 课前自测 | 截图显示 2/2；首次作答过程未记录 |
 | 原课练习与课后测验 | 已收录，未记录作答 |
 
 环境使用、路线就绪、概念掌握与整课完成分别记录；本课仍为进行中。Jupyter / Docker 暂缓，CUDA 不走本机安装路线，详细状态见[环境台账](../../environment.md)。

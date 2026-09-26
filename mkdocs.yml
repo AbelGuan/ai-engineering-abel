@@ -46,6 +46,11 @@ markdown_extensions:
       permalink: true
 extra_css:
   - assets/extra.css
+  - assets/course-interactive.css
+extra_javascript:
+  - assets/upstream/p00-l01/lesson-figures.js
+  - assets/upstream/p00-l01/figures-setup.js
+  - assets/course-interactive.js
 nav:
   - 课程首页: index.md
   - Roadmap · 学习路线: roadmap.md

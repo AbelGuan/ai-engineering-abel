@@ -36,3 +36,7 @@
 ## 第一课教学骨架重整
 
 2026-09-26 对照原仓库固定版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3` 的 `phases/00-setup-and-tooling/01-dev-environment/docs/en.md`，保留 Learning Objectives、The Problem、The Concept、Build It 七步、Use It、Ship It 与 Exercises 的教学顺序。中文说明及个人经历另行组织；来源作者 Rohit Ghumare，版权与 [MIT 许可](assets/upstream/p00-l01/LICENSE.txt) 保留。当前进度没有因此变为结课。
+
+## 课前自测与动画
+
+2026-09-26 用户提供课前自测与四层动画截图。前者显示两题正确、总分 2/2，首次作答过程未知。随后核对同一原仓库版本的 quiz.json、site/lesson-figures.js 与 site/figures-setup.js，补入课前两题并直接复用动画模块。完整源码副本与 MIT 许可保存在本站 assets/upstream/p00-l01/，适配代码独立维护。

@@ -1,10 +1,52 @@
 # Lesson 01 · 原课练习与测验
 
-**收录状态：已收录 Exercises 和 Post-Lesson Quiz；作答状态：未记录。** 收录题目不等于完成练习或通过测验。
+**收录状态：已收录 Pre-Lesson Check、Exercises 和 Post-Lesson Quiz；课前截图显示 2/2，首次作答过程未记录。** 收录题目不等于完成练习或通过测验。
 
 来源：[AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)，作者 Rohit Ghumare。归档于 2026-09-26，原仓库版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3`。以下保存该本地版本的英文原文，不将翻译或个人解释混入原题。
 
 Copyright (c) 2026 Rohit Ghumare。转载遵循 [MIT 许可全文](../../assets/upstream/p00-l01/LICENSE.txt)。
+
+## Pre-Lesson Check
+
+原课 `quiz.json` 中 `stage: pre` 的全部两题，题干、选项顺序、答案与解释均保留原文。点击选项后显示反馈，可重新作答。网页作答仅在当前页面中演示，刷新后重置，不会自动写回仓库。
+
+<div data-pre-quiz>
+<script type="application/json">[{"stage": "pre", "question": "Why do AI projects need a separate virtual environment?", "options": ["Python requires virtual environments to import packages", "They isolate dependencies so different projects don't conflict", "Virtual environments make code run faster", "Virtual environments provide GPU access"], "correct": 1, "explanation": "Virtual environments isolate package versions per project. Without them, upgrading PyTorch for one project can break another that depends on an older version."}, {"stage": "pre", "question": "What does CUDA provide for AI workloads?", "options": ["Parallel computing on NVIDIA GPUs for matrix operations", "A Python package manager for ML libraries", "A web framework for deploying models", "A container runtime for model serving"], "correct": 0, "explanation": "CUDA is NVIDIA's parallel computing platform that lets you run matrix operations on thousands of GPU cores simultaneously. PyTorch and TensorFlow use it under the hood."}]</script>
+</div>
+
+<noscript>互动自测需要 JavaScript。下方也保留可展开阅读的原题。</noscript>
+
+??? note "课前题原文与答案（静态备份）"
+
+    **1. Why do AI projects need a separate virtual environment?**
+
+    A. Python requires virtual environments to import packages
+
+    B. They isolate dependencies so different projects don't conflict
+
+    C. Virtual environments make code run faster
+
+    D. Virtual environments provide GPU access
+
+    **原答案：B**
+
+    Virtual environments isolate package versions per project. Without them, upgrading PyTorch for one project can break another that depends on an older version.
+
+    **2. What does CUDA provide for AI workloads?**
+
+    A. Parallel computing on NVIDIA GPUs for matrix operations
+
+    B. A Python package manager for ML libraries
+
+    C. A web framework for deploying models
+
+    D. A container runtime for model serving
+
+    **原答案：A**
+
+    CUDA is NVIDIA's parallel computing platform that lets you run matrix operations on thousands of GPU cores simultaneously. PyTorch and TensorFlow use it under the hood.
+
+截图记录：本次提供的原站课前自测截图显示两道题均选中正确答案、总分 2/2。截图不能证明是否为首次作答，因此不推定首次全部答对，也不据此认定整课已掌握。
 
 ## Exercises
 
@@ -53,16 +95,16 @@ D. A CUDA compiler for custom kernels
 
 ### 3. How do you verify that PyTorch can access your GPU?
 
-A. python -c 'import gpu'
+A. `python -c 'import gpu'`
 
-B. import torch; print(torch.cuda.is_available())
+B. `import torch; print(torch.cuda.is_available())`
 
-C. import torch; print(torch.__version__)
+C. `import torch; print(torch.__version__)`
 
-D. nvidia-smi --query
+D. `nvidia-smi --query`
 
 ??? note "原课答案与解释（展开查看）"
-    **B. import torch; print(torch.cuda.is_available())**
+    **B. `import torch; print(torch.cuda.is_available())`**
 
     torch.cuda.is_available() returns True if PyTorch can access CUDA GPUs. On Apple Silicon, use torch.backends.mps.is_available() for Metal Performance Shaders.
 
@@ -73,6 +115,7 @@ D. nvidia-smi --query
 
 | 项目 | 我的作答 / 操作 | 结果 | 复盘 |
 |---|---|---|---|
+| Pre-Lesson Check 1–2 | 用户提供原站答题截图 | 显示 2/2 correct | 首次作答及重试过程未记录 |
 | Exercises 1–3 | 未记录 | 未验证 | 待学习时填写 |
 | Post-Lesson Quiz 1–3 | 未记录 | 未作答 | 待用户回答后记录 |
 
