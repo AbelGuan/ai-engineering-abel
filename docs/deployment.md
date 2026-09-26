@@ -1,6 +1,8 @@
 # GitHub Pages 部署
 
-本仓库使用 **MkDocs Material → 静态网站 → GitHub Pages**。当前提供完整配置；尚未创建远程仓库，也没有公网课程地址。
+本仓库使用 **MkDocs Material → 静态网站 → GitHub Pages**。已创建[课程远程仓库](https://github.com/AbelGuan/ai-engineering-abel)，并将 Pages 来源设为 GitHub Actions；首次上传与发布待完成。
+
+下面的首次发布流程保留为操作参考；已有远程仓库时无需重复创建。
 
 ## 第一次发布
 
