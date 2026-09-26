@@ -66,7 +66,7 @@ updated: YYYY-MM-DD
 
 操作成功与概念掌握分开记录。全部必要标准满足后才结课。
 
-关联原课练习页：待建立 `YY-lesson-practice.md`。逐项收录 Exercises、Test your understanding、Post-Lesson Quiz；原文、选项及答案保持原样，附来源版本及许可。答案折叠；用户作答、订正和助手解析独立保存。找不到的栏目写“待核对”，未作答写“未作答”。
+关联原课练习页：待建立 `YY-lesson-practice.md`。逐项收录 Exercises 和 Post-Lesson Quiz；原文、选项及答案保持原样，附来源版本及许可。答案折叠；用户作答、订正和助手解析独立保存。需要收录但缺失的内容写“待核对”，未作答写“未作答”。Test your understanding 与课后测验重复，不单独设栏或保留占位。
 
 ## 12. 暂缓内容
 

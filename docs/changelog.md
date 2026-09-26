@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-09-26 · 合并重复测验栏目
+
+- 用户确认 Test your understanding 与 Post-Lesson Quiz 内容相同。
+- 删除首课独立的 Test your understanding 栏目与待核对提示；以后只保留 Exercises 和 Post-Lesson Quiz，不创建重复栏目或空白占位。
+- 同步维护约定、Lesson 模板和助手规则；原题、答案与个人作答区保持不变。
+
 ## 2026-09-26 · 纳入原课练习与测验
 
 - 按用户要求，将已学章节的 Exercises、Test your understanding 与 Post-Lesson Quiz 纳入固定整理规则与模板。

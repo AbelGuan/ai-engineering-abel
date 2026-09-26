@@ -17,10 +17,6 @@ Copyright (c) 2026 Rohit Ghumare。转载遵循 [MIT 许可全文](../../assets/
 !!! note "本路线补充说明（非原文）"
     上述练习保留原样。PyTorch 与四种语言的练习仍按我们的学习路线暂缓，不因为收录原题就要求现在安装。
 
-## Test your understanding
-
-**待核对。** 当前原课文档只有 `Exercises` 标题，未找到独立的同名段落。它可能是网页上的栏目说明，也可能来自其他文件；拿到对应页面内容后再核对，不把自编题当作原题。
-
 ## Post-Lesson Quiz
 
 来源：[原课 quiz.json](https://github.com/rohitg00/ai-engineering-from-scratch/blob/8bc378c2e07777899322ae77cd0dde94cb12fab3/phases/00-setup-and-tooling/01-dev-environment/quiz.json) · [完整数据快照](../../assets/upstream/p00-l01/quiz.json)。以下按原文件顺序收录 `stage: post` 的全部 3 题；选项顺序未更改。
