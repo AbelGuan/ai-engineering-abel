@@ -62,6 +62,6 @@ ai-engineering-abel/
 
 ## 发布与维护
 
-远程仓库：[AbelGuan/ai-engineering-abel](https://github.com/AbelGuan/ai-engineering-abel)。已启用 Pages 的 GitHub Actions 来源；首次推送与发布正在准备。推送到 `main` 会自动更新网站；PR 只做构建检查。
+远程仓库：[AbelGuan/ai-engineering-abel](https://github.com/AbelGuan/ai-engineering-abel)。课程网站：[AI Engineering · Abel Track](https://abelguan.github.io/ai-engineering-abel/)。已启用 Pages 的 GitHub Actions 来源，并完成首次发布。推送到 `main` 会自动更新网站；PR 只做构建检查。
 
 以后在这个仓库的任务中说“整理”，助手应更新对应课程、环境台账、路线状态和更新记录，执行严格构建，再报告本地更新和线上发布各自的结果。跨任务继续时，把本仓库作为项目打开；不能假设聊天记忆自动跨任务保留。

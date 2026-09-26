@@ -1,5 +1,13 @@
 # 更新记录
 
+## 2026-09-26 · GitHub Pages 首次上线
+
+- GitHub 官方工具已完成用户授权与身份验证，本地 `main` 已推送并跟踪 `origin/main`。
+- [首次发布流程](https://github.com/AbelGuan/ai-engineering-abel/actions/runs/36206456396)已完成构建和部署，公网首页已实际打开验证。
+- 正式网站：[AI Engineering · Abel Track](https://abelguan.github.io/ai-engineering-abel/)。
+- 后续在本地整理课程、检查后推送 `main`，由 GitHub Actions 自动更新网站。
+- 本次是课程网站维护，不改变 Lesson 01 中 uv / Python 3.12 / 课程 `.venv` 的学习状态。
+
 ## 2026-09-26 · 连接 GitHub（发布准备）
 
 - 用户明确同意创建公开仓库并公开发布课程网站。
