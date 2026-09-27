@@ -1,0 +1,4 @@
+1. Run `env_setup.sh` and verify all checks pass
+2. Create a second virtual environment, install a different version of numpy in it, and confirm the two environments are isolated
+3. Write a `pyproject.toml` for a project that needs both PyTorch and the Anthropic SDK
+4. Deliberately install a package globally (without activating a venv), notice where it goes, then uninstall it

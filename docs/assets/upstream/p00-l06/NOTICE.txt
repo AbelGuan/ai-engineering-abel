@@ -1,0 +1,4 @@
+Copyright (c) 2026 Rohit Ghumare. MIT License: LICENSE.txt
+Source: https://github.com/rohitg00/ai-engineering-from-scratch/blob/8bc378c2e07777899322ae77cd0dde94cb12fab3/phases/00-setup-and-tooling/06-python-environments/
+Archived: 2026-09-27
+Animation s0-env-isolation uses the existing unmodified copies of site/figures-setup.js and lesson-figures.js in ../p00-l01/ from the same commit.

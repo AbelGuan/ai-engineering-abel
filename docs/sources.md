@@ -48,3 +48,7 @@
 ## 第四课 API 与密钥
 
 2026-09-27 用户指定 P00-L04，依次讨论 SDK 自动读取密钥、Raw HTTP 请求结构和 Ship It 含义，随后要求整理。没有结课、调用或测验完成反馈。原课内容来自版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3`；保存[原文](assets/upstream/p00-l04/lesson.txt)、[测验](assets/upstream/p00-l04/quiz.json)、[提示词](assets/upstream/p00-l04/prompt-api-troubleshooter.txt)与[MIT 许可](assets/upstream/p00-l04/LICENSE.txt)。动画复用同版本 s0-secret-inject。SDK 默认密钥行为已在讨论中核对 [Anthropic 官方说明](https://github.com/anthropics/anthropic-sdk-typescript#getting-started)。
+
+## 第六课 Python 环境
+
+2026-09-27 用户指定 P00-L06，提供环境脚本结束部分截图；截图显示根目录 `.venv`、Python 3.12.14、五个基础包、NumPy 运算与全部基础检查通过，PyTorch 未安装且为可选提示。随后讨论目录树、uv 创建与激活、NumPy 与 PyTorch、lock 文件和传递依赖。截图未展示 uv 检查，创建工具待核对。原课来源版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3`，保存[原文](assets/upstream/p00-l06/lesson.txt)、[脚本](assets/upstream/p00-l06/env_setup.sh)、[测验](assets/upstream/p00-l06/quiz.json)及[MIT 许可](assets/upstream/p00-l06/LICENSE.txt)。未公开原截图中的个人绝对目录。

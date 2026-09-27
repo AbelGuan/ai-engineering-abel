@@ -3,11 +3,12 @@
 沿原课程的教学骨架，积累自己的实操、理解与排错记录。
 
 !!! info "当前学习位置"
-    **Phase 00 · Lesson 04：API 与密钥，进行中。** 已讨论 SDK、密钥读取、Raw HTTP 与 Ship It；尚未确认实际调用或结课。Lesson 02 已学完，Lesson 01 待验证项独立保留。
+    **Phase 00 · Lesson 06：Python 环境，进行中。** 课程根目录的 `.venv`、Python 3.12.14 与五个基础包已有截图验证；lock 文件等后续练习尚未记录。
 
 | 从哪里开始 | 你会看到什么 |
 |---|---|
-| [继续 Lesson 04](phases/00-setup-and-tooling/04-apis-and-keys.md) | 原课骨架、API 调用示例、个人问答与动画 |
+| [继续 Lesson 06](phases/00-setup-and-tooling/06-python-environments.md) | 虚拟环境目录树、基础包检查、lock 文件与传递依赖 |
+| [回看 Lesson 04](phases/00-setup-and-tooling/04-apis-and-keys.md) | 原课骨架、API 调用示例、个人问答与动画 |
 | [回看 Lesson 02](phases/00-setup-and-tooling/02-git-and-collaboration.md) | Git 日常流程、分支、原课动画与练习 |
 | [回看 Lesson 01](phases/00-setup-and-tooling/01-dev-environment.md) | 原课目标、四层环境、搭建验证与个人经历 |
 | [Roadmap · 学习路线](roadmap.md) | 先学哪个 Phase、具体选哪些节、为什么 |
@@ -24,7 +25,7 @@
 
 | 阶段 | 内容 | 学习状态 |
 |---|---|---|
-| [Phase 00](phases/00-setup-and-tooling/index.md) | Setup & Tooling | Lesson 04 进行中；Lesson 02 已学完 |
+| [Phase 00](phases/00-setup-and-tooling/index.md) | Setup & Tooling | Lesson 06 进行中；Lesson 02 已学完 |
 | [Phase 11](phases/11-llm-engineering/index.md) | LLM Engineering | 计划 |
 | [Phase 13](phases/13-tools-and-protocols/index.md) | Tools / MCP / Skills | 计划 |
 | [Phase 14](phases/14-agent-engineering/index.md) | Agent Engineering | 计划；后半部分会提前学 |
