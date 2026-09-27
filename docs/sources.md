@@ -44,3 +44,7 @@
 ## 第二课 Git 与协作
 
 2026-09-27 用户提供原课链接，并明确反馈“这课我学完了，没有什么疑问”，据此记录学习完成；未推定具体练习过程或测验成绩。教学内容、Exercises、两道课前题与三道课后题来自本地固定版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3` 的第二课；动画复用同版本 `s0-commit-dag`。保留[原文快照](assets/upstream/p00-l02/lesson.txt)、[测验数据](assets/upstream/p00-l02/quiz.json)与[MIT 许可](assets/upstream/p00-l02/LICENSE.txt)。
+
+## 第四课 API 与密钥
+
+2026-09-27 用户指定 P00-L04，依次讨论 SDK 自动读取密钥、Raw HTTP 请求结构和 Ship It 含义，随后要求整理。没有结课、调用或测验完成反馈。原课内容来自版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3`；保存[原文](assets/upstream/p00-l04/lesson.txt)、[测验](assets/upstream/p00-l04/quiz.json)、[提示词](assets/upstream/p00-l04/prompt-api-troubleshooter.txt)与[MIT 许可](assets/upstream/p00-l04/LICENSE.txt)。动画复用同版本 s0-secret-inject。SDK 默认密钥行为已在讨论中核对 [Anthropic 官方说明](https://github.com/anthropics/anthropic-sdk-typescript#getting-started)。

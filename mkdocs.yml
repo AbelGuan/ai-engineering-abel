@@ -60,6 +60,8 @@ nav:
       - Lesson 01 · 原课练习与测验: phases/00-setup-and-tooling/01-dev-environment-practice.md
       - Lesson 02 · Git 与协作: phases/00-setup-and-tooling/02-git-and-collaboration.md
       - Lesson 02 · 原课练习与测验: phases/00-setup-and-tooling/02-git-and-collaboration-practice.md
+      - Lesson 04 · API 与密钥: phases/00-setup-and-tooling/04-apis-and-keys.md
+      - Lesson 04 · 原课练习与测验: phases/00-setup-and-tooling/04-apis-and-keys-practice.md
   - Phase 11 · LLM Engineering: phases/11-llm-engineering/index.md
   - Phase 13 · Tools / MCP / Skills: phases/13-tools-and-protocols/index.md
   - Phase 14 · Agent Engineering: phases/14-agent-engineering/index.md
