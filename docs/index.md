@@ -3,11 +3,12 @@
 沿原课程的教学骨架，积累自己的实操、理解与排错记录。
 
 !!! info "当前学习位置"
-    **Phase 00 · Lesson 01：建立你的 Mac AI 开发环境。** 按原课四层环境与搭建顺序学习；基础安装、路径排错和虚拟环境使用已有记录，最终预检待反馈，尚未结课。
+    **Phase 00 · Lesson 02：Git 与协作，已学完（用户确认）。** 暂无疑问；后续操作遇到问题再补记录。Lesson 01 的既有待验证项独立保留，下一课尚未开始。
 
 | 从哪里开始 | 你会看到什么 |
 |---|---|
-| [继续 Lesson 01](phases/00-setup-and-tooling/01-dev-environment.md) | 原课目标、四层环境、搭建验证与个人经历 |
+| [回看 Lesson 02](phases/00-setup-and-tooling/02-git-and-collaboration.md) | Git 日常流程、分支、原课动画与练习 |
+| [回看 Lesson 01](phases/00-setup-and-tooling/01-dev-environment.md) | 原课目标、四层环境、搭建验证与个人经历 |
 | [Roadmap · 学习路线](roadmap.md) | 先学哪个 Phase、具体选哪些节、为什么 |
 | [Environment State · 环境台账](environment.md) | 已有工具、计划安装、暂缓与当前跳过 |
 | [“整理”工作流](maintenance.md) | 一次对话如何沉淀成可维护的课程 |
@@ -22,7 +23,7 @@
 
 | 阶段 | 内容 | 学习状态 |
 |---|---|---|
-| [Phase 00](phases/00-setup-and-tooling/index.md) | Setup & Tooling | Lesson 01 进行中 |
+| [Phase 00](phases/00-setup-and-tooling/index.md) | Setup & Tooling | Lesson 02 已学完；Lesson 01 保留待验证项 |
 | [Phase 11](phases/11-llm-engineering/index.md) | LLM Engineering | 计划 |
 | [Phase 13](phases/13-tools-and-protocols/index.md) | Tools / MCP / Skills | 计划 |
 | [Phase 14](phases/14-agent-engineering/index.md) | Agent Engineering | 计划；后半部分会提前学 |

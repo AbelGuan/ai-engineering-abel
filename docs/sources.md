@@ -40,3 +40,7 @@
 ## 课前自测与动画
 
 2026-09-26 用户提供课前自测与四层动画截图。前者显示两题正确、总分 2/2，首次作答过程未知。随后核对同一原仓库版本的 quiz.json、site/lesson-figures.js 与 site/figures-setup.js，补入课前两题并直接复用动画模块。完整源码副本与 MIT 许可保存在本站 assets/upstream/p00-l01/，适配代码独立维护。
+
+## 第二课 Git 与协作
+
+2026-09-27 用户提供原课链接，并明确反馈“这课我学完了，没有什么疑问”，据此记录学习完成；未推定具体练习过程或测验成绩。教学内容、Exercises、两道课前题与三道课后题来自本地固定版本 `8bc378c2e07777899322ae77cd0dde94cb12fab3` 的第二课；动画复用同版本 `s0-commit-dag`。保留[原文快照](assets/upstream/p00-l02/lesson.txt)、[测验数据](assets/upstream/p00-l02/quiz.json)与[MIT 许可](assets/upstream/p00-l02/LICENSE.txt)。

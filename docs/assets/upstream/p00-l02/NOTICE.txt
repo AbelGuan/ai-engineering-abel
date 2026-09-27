@@ -1,0 +1,4 @@
+Copyright (c) 2026 Rohit Ghumare. MIT License: LICENSE.txt
+Source: https://github.com/rohitg00/ai-engineering-from-scratch/blob/8bc378c2e07777899322ae77cd0dde94cb12fab3/phases/00-setup-and-tooling/02-git-and-collaboration/docs/en.md
+Archived: 2026-09-27
+Animation: s0-commit-dag from site/figures-setup.js at the same commit. Uses the existing unmodified copies in ../p00-l01/ and its lesson-figures.js runtime.

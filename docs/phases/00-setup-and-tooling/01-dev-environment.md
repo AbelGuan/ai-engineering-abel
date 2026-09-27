@@ -6,7 +6,7 @@ updated: 2026-09-26
 
 # Lesson 01 · 开发环境（Dev Environment）
 
-**Phase 00 · Setup & Tooling｜当前学习位置：P00-L01｜状态：进行中**
+**Phase 00 · Setup & Tooling｜本课编号：P00-L01｜状态：进行中**
 
 本课沿用原课的学习目标和教学顺序，再补充 Mac 适配与个人操作记录。原课无前置课程要求；接触过补充知识不代表已完成其他章节。
 

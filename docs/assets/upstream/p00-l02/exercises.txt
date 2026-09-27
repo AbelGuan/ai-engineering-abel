@@ -1,0 +1,3 @@
+1. Fork this repo, clone your fork, create a branch called `my-progress`, make a file, commit it, push it
+2. Create a `.gitignore` that excludes model checkpoint files (`.pt`, `.pth`, `.safetensors`)
+3. Look at the commit history of this repo with `git log --oneline` and read how lessons were added

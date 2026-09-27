@@ -1,6 +1,6 @@
 # Roadmap · 学习路线
 
-**目标：能理解、设计、验证并持续改进 AI 产品。** 先建立软件工程判断，再学习 LLM、工具和 Agent，之后补模型原理。当前仅 Phase 00 Lesson 01 有实操记录。
+**目标：能理解、设计、验证并持续改进 AI 产品。** 先建立软件工程判断，再学习 LLM、工具和 Agent，之后补模型原理。Phase 00 Lesson 01 有实操记录；Lesson 02 已学完（2026-09-27 用户确认），暂无疑问。
 
 这是从历史对话保留的个人规划，节次是当时的定位，不声称是原课程的最新目录。后续学习时复核具体章节；不把曾讨论过的总课数、预计学时当成完成量。
 
@@ -10,7 +10,7 @@
 
 | 顺序 | 阶段 / 路线 | 建议学的节或主题 | 深度与理由 | 状态 |
 |---|---|---|---|---|
-| 1 | [Phase 00](phases/00-setup-and-tooling/index.md) | 01、02、04、06、08、10、11、12 | 认真学；补环境、Git、API、终端与排错 | L01 进行中，其余计划 |
+| 1 | [Phase 00](phases/00-setup-and-tooling/index.md) | 01、02、04、06、08、10、11、12 | 认真学；补环境、Git、API、终端与排错 | L02 已学完；L01 保留待验证项，其余计划 |
 | 2 | Software Engineering Fundamentals | 历史规划全部 13 节 | 认真学；建立应用、数据、架构与可靠性判断 | 计划 |
 | 3 | [Phase 14 · Agent-Assisted Engineering](phases/14-agent-engineering/index.md) | 31–46 | 全部学；任务定义、仓库记忆、验证、交接 | 计划，提前学习 |
 | 4 | Phase 14 · Product Judgment | 47–54 | 全部学；先定义问题与成功标准 | 计划 |
@@ -28,7 +28,9 @@
 
 ## 近期学习顺序
 
-**完成 Lesson 01 的验证与项目环境 → Lesson 02 Git & Collaboration → 按 Phase 00 必学清单继续 → 软件工程基础。**
+**Lesson 02 Git & Collaboration 已学完 → 下一项建议 Lesson 04 APIs & Keys（尚未开始）→ 按 Phase 00 必学清单继续 → 软件工程基础。**
+
+Lesson 03 按既有路线暂缓。Lesson 01 的待验证项继续保留，不因已学完第二课而自动改为通过；后续 Git 操作问题补回第二课。
 
 项目环境在 Lesson 01 做最小实践，在 Lesson 06 深入学习。原课程编号作为知识索引，不强制按照 Phase 数字顺序学。
 
